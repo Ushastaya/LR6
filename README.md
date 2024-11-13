@@ -49,7 +49,11 @@ https://github.com/Kurtyanik/LR6/
 
 ![Рисунок 3](LR_screenshots/11.JPG)
 
+До редактирования:
+
 ![Рисунок 3](LR_screenshots/12.JPG)
+
+После редактирования:
 
 ![Рисунок 3](LR_screenshots/13.JPG)
 
