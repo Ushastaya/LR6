@@ -44,4 +44,15 @@ https://github.com/Kurtyanik/LR6/
 
 ![Рисунок 3](LR_screenshots/10.jpg)
 
+9. Выполнить слияние в ветку master, разрешив конфликт (можно 
+использовать специальные редакторы или графический интерфейс git).
 
+![Рисунок 3](LR_screenshots/11.jpg)
+
+![Рисунок 3](LR_screenshots/12.jpg)
+
+![Рисунок 3](LR_screenshots/13.jpg)
+
+![Рисунок 3](LR_screenshots/14.jpg)
+
+![Рисунок 3](LR_screenshots/15.jpg)
