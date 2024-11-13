@@ -88,15 +88,15 @@ https://github.com/Kurtyanik/LR6/
 
 ![Рисунок 3](LR_screenshots/22.JPG)
 
-# Лог команд
+### Лог команд
 ```
 git config --global user.name
 git config --global user.email
 git clone
 git pull
 git checkout <name branch>
-git log --all --graph –decorate
-git log --oneline --graph –all
+git log --all --graph --decorate
+git log --oneline --graph --all
 git show
 git merge <name branch>
 git status
@@ -108,4 +108,11 @@ git push -d origin <name branch>
 git reset --hard <hash commit>
 git push
 git push origin <name branch>
+git log --pretty=format:"%h %ad %an %s" --date=short
+```
+
+
+### История операций
+```
+
 ```
