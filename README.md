@@ -1,7 +1,7 @@
 # LR6
-Лабораторная работа №6
+## Лабораторная работа №6
 
-***Порядок выполнения работы***
+### ***Порядок выполнения работы***
 1. Создать аккаунт на сайте GitHub.
 
 ![Рисунок 1](LR_screenshots/0.jpg)
@@ -87,3 +87,25 @@ https://github.com/Kurtyanik/LR6/
 13. Создать ветку для отчёта.
 
 ![Рисунок 3](LR_screenshots/22.jpg)
+
+# Лог команд
+```
+git config --global user.name
+git config --global user.email
+git clone
+git pull
+git checkout <name branch>
+git log --all --graph –decorate
+git log --oneline --graph –all
+git show
+git merge <name branch>
+git status
+git add <file>
+git add .
+git commit -m "text commita"
+git branch -d <name branch>
+git push -d origin <name branch>
+git reset --hard <hash commit>
+git push
+git push origin <name branch>
+```
