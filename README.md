@@ -56,3 +56,15 @@ https://github.com/Kurtyanik/LR6/
 ![Рисунок 3](LR_screenshots/14.jpg)
 
 ![Рисунок 3](LR_screenshots/15.jpg)
+
+10. Удалить побочную ветку после успешного слияния.
+
+Удаление в локальном репозитории.
+
+![Рисунок 3](LR_screenshots/16.jpg)
+
+Удаление в удаленном репозитории.
+
+![Рисунок 3](LR_screenshots/17.jpg)
+
+![Рисунок 3](LR_screenshots/18.jpg)
