@@ -24,3 +24,12 @@ https://github.com/Kurtyanik/LR6/
 ![Рисунок 3](LR_screenshots/3.jpg)
 
 ![Рисунок 3](LR_screenshots/4.jpg)
+
+6. Добавить файл через интерфейс GitHub. Подтянуть изменения в 
+локальный репозиторий.
+
+![Рисунок 3](LR_screenshots/5.jpg)
+
+![Рисунок 3](LR_screenshots/6.jpg)
+
+![Рисунок 3](LR_screenshots/7.jpg)
