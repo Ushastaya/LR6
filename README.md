@@ -37,3 +37,11 @@ https://github.com/Kurtyanik/LR6/
 7. Получить историю операций для каждой из веток.
 
 ![Рисунок 3](LR_screenshots/8.jpg)
+
+8. Просмотреть последние изменения.
+
+![Рисунок 3](LR_screenshots/9.jpg)
+
+![Рисунок 3](LR_screenshots/10.jpg)
+
+
