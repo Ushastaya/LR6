@@ -79,3 +79,7 @@ https://github.com/Kurtyanik/LR6/
 Вторые изменения
 
 ![Рисунок 3](LR_screenshots/20.jpg)
+
+12. Сделать откат коммита.
+
+![Рисунок 3](LR_screenshots/21.jpg)
