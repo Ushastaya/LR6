@@ -83,3 +83,7 @@ https://github.com/Kurtyanik/LR6/
 12. Сделать откат коммита.
 
 ![Рисунок 3](LR_screenshots/21.jpg)
+
+13. Создать ветку для отчёта.
+
+![Рисунок 3](LR_screenshots/22.jpg)
