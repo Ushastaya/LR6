@@ -11,3 +11,9 @@ https://github.com/Kurtyanik/LR6/
 ```
 
 ![Рисунок 3](LR_screenshots/2.jpg)
+
+3. Установить Git 
+4. После установки настроить клиент git, введя имя пользователя (Группа 
+Фамилия И.О.) и email.
+
+![Рисунок 3](LR_screenshots/1.jpg)
