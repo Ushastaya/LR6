@@ -68,3 +68,14 @@ https://github.com/Kurtyanik/LR6/
 ![Рисунок 3](LR_screenshots/17.jpg)
 
 ![Рисунок 3](LR_screenshots/18.jpg)
+
+11. Сделать изменения и зафиксировать их, оставляя комментарии, 
+несколько раз.
+
+Первые изменения
+
+![Рисунок 3](LR_screenshots/19.jpg)
+
+Вторые изменения
+
+![Рисунок 3](LR_screenshots/20.jpg)
